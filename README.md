@@ -8,6 +8,7 @@ This project predicts the completion percentage of a given resume text compared 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Screen shots](#Screenshots)
+- [Flowchart](#Flowchart)
 
 ## Prerequisites
 
