@@ -1,6 +1,6 @@
 # Automated resume screening and matching agent
 
-This Flask application is a simple web server that predicts the completion percentage of a given resume text compared to a predefined job description using Natural Language Processing (NLP) techniques.
+This project predicts the completion percentage of a given resume text compared to a predefined job description using Natural Language Processing (NLP) techniques.
 
 ## Table of Contents
 
