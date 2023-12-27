@@ -53,9 +53,8 @@ python user_agent.py
 ## Demo Video Link:
 https://drive.google.com/file/d/1UalrX72RAEp4qBUymRI3NTBDEhmK6HI5/view?usp=sharing
 
-future improvements for the Automated Resume Screening and Matching Agent:
+## future improvements for the Automated Resume Screening and Matching Agent:
 
-    Advanced AI and Machine Learning: Integration of advanced AI and machine learning algorithms to continually improve the system's ability to learn and adapt based on historical data, evolving job requirements, and changing industry trends.
 
 Contextual Understanding: Implement algorithms that consider the context in which certain skills or experiences are mentioned, providing a more nuanced evaluation of a candidate's suitability.
 Dynamic Learning: Enable the agent to dynamically learn and adapt to evolving job requirements and industry trends. This could involve continuous training with new datasets and feedback loops from successful hires.
