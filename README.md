@@ -44,6 +44,6 @@ python ai-agent.py
 python user_agent.py
 ```
 ## Screenshots
-blob:https://web.whatsapp.com/47d9e27a-2c73-49e1-aca6-dddd1b1e58ba![image](https://github.com/Jai0401/Hack-230679/assets/112328542/e2c2257a-df95-45e8-8215-785c734d148d)
+![ss](img1.png)
 
 
