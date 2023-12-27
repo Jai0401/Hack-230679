@@ -44,6 +44,6 @@ python ai-agent.py
 python user_agent.py
 ```
 ## Screenshots
-![ss](img1.png)
+![ss](img1.jpeg)
 
 
