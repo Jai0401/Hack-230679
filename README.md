@@ -7,10 +7,7 @@ This Flask application is a simple web server that predicts the completion perce
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [API Endpoint](#api-endpoint)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
+- [Screen shots](#Screenshots)
 
 ## Prerequisites
 
@@ -33,7 +30,7 @@ Clone the repository to your local machine:
 Ensure you have a job description document in the project directory (e.g., sample_description.docx).
 Run the Flask application:
 ```bash
-python app.py
+python uagents_communication_flask.py
 ```
 The server will be running at http://localhost:5000/.
 ## For running Agents
@@ -46,4 +43,7 @@ python ai-agent.py
 ```bash
 python user_agent.py
 ```
+## Screenshots
+blob:https://web.whatsapp.com/47d9e27a-2c73-49e1-aca6-dddd1b1e58ba![image](https://github.com/Jai0401/Hack-230679/assets/112328542/e2c2257a-df95-45e8-8215-785c734d148d)
+
 
